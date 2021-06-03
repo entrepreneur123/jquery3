@@ -1,0 +1,9 @@
+.board{
+	font-size: 30px;
+	color: blue;
+	left: 45%;
+	position: absolute;
+	height:25px;
+	width: 100px;
+	background: red;
+}
